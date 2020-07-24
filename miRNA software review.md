@@ -33,6 +33,5 @@ Thomas Bradley 1,2 and Simon Moxon, Bioinformatics, 36(8), 2020, 2410–2416
  但是从其模拟的结果来看：miRNA target site gain and loss (3'UTR reannotation)：
 gain [mean:0.18% ]< loss [mean :1.5%]，mRNA 3'UTR 改变对影响不大
 
-![avatar](https://academic.oup.com/view-large/figure/202792695/btaa007f4.tif)
-
+![avatar](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/36/8/10.1093_bioinformatics_btaa007/2/btaa007f4.png?Expires=1598606494&Signature=MAWky1joWvZeNT-rmgcE85vT6ubEA2-rL5AqMGPJpKx9Uw1z6OSojAfdpT8VSDPqmPR49AK4zQbV83ECszf9iGD~QfvTXZNueGb0CBKQwbL7V1hp8hzv9B0H6OCrBX2A-24JpT7tuUJOkEnDQjzqkVOC243OCvtTvlJaGHJLZ87xEfz-4DbgIt9ZCb-Z81dS3SqyBv1qhNugXsbpnSSLHsLZtlemaIkftecTGGPsd3zBHfsAjPFYp1KfNW5miKKHjdZkCGjcoY33E1IqrO2FY21h~9GlFLhg1NUr2ph~OdVoUK3thiG9UVQKINy4kiELv4fpG1OvpgoYM-3sLK2aXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
