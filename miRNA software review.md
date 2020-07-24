@@ -30,3 +30,9 @@ Thomas Bradley 1,2 and Simon Moxon, Bioinformatics, 36(8), 2020, 2410–2416
 > targeting and subsequent transcript repression (Ritchie and Rasko,
 > 2014).
 
+ 但是从其模拟的结果来看：miRNA target site gain and loss (3'UTR reannotation)：
+gain [mean:0.18% ]< loss [mean :1.5%]，mRNA 3'UTR 改变对影响不大
+
+![avatar](https://academic.oup.com/view-large/figure/202792695/btaa007f4.tif)
+
+
